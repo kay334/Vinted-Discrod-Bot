@@ -1,0 +1,20 @@
+{
+  "token": "",
+  "prefix": "$",
+  "embed-color": 16711680,
+  "embed-color-text": "fix",
+  "embed-config": {
+    "prix": "oui",
+    "taille": "oui",
+    "marque": "oui",
+    "avis": "oui",
+    "localisation": "oui",
+    "vendeur": "oui"
+  },
+  "suburl": {
+    "https://discord.com/api/webhooks/your-webhook-url": {
+      "url": "https://www.vinted.com/your-vinted-url",
+      "salon": "your-channel-name"
+    }
+  }
+}
